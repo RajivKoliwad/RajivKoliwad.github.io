@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Scientist | Problem Sover #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Rajiv Koliwad, a rising 4th year student at the University of Virginia studying Computer Science. This summer, I will be working @ [NASA Jet Propulsion Lab](https://www.jpl.nasa.gov/) 🚀
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interest in Computer Science emminates from the immense promise and impact of well written code - aside from the fact that making things is extremley fun. 
+
+For the past two summers, I have had the privledge to work in [The Butte Lab](https://buttelab.ucsf.edu/) working on an LLM-powered clinical matching pipeline. 
+
+My current course work and academic interest lie within applications of AI, ML, and wriiting sustainable p
+
+
+
