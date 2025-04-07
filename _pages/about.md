@@ -34,7 +34,7 @@ My interest in Computer Science emminates from the immense promise and impact of
 
 For the past two summers, I have had the privledge to work in [The Butte Lab](https://buttelab.ucsf.edu/) working on an LLM-powered clinical matching pipeline. 
 
-My current course work and academic interest lie within applications of AI, ML, and wriiting sustainable p
+My current course work, academic, and professional interest lie within applications of AI, ML, as well as more traditional software engineering.
 
-
+Outside of class, I enjoy running - most recently completed the San Francisco Half Marathon. I also enjoy playing soccer and playing guitar.
 
