@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "name": "Raijv Koliwad",
+    "label": "Computer Scientist",
+    "image": "prof_pic.jpg",
+    "email": "rajivkoliwad@gmail.com",
+    "phone": "650-863-2003",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
