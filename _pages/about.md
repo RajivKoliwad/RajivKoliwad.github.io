@@ -27,14 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Rajiv Koliwad, a rising 4th year student at the University of Virginia studying Computer Science. This summer, I will be working @ [NASA Jet Propulsion Lab](https://www.jpl.nasa.gov/) 🚀
+
+My name is Rajiv Koliwad, and I’m a rising 4th-year student at the University of Virginia studying Computer Science. This summer, I’ll be working at [NASAs Jet Propulsion Lab](https://www.jpl.nasa.gov/) 🚀.
+
+My passion for Computer Science comes from the immense promise and impact that well-written code can have — plus, it’s incredibly fun to create things!
+
+Over the past two summers, I’ve had the privilege of working in [The Butte Lab](https://buttelab.ucsf.edu/), where I helped develop an LLM-powered clinical matching pipeline.
+
+Currently, my academic focus and professional interests revolve around applications of AI, ML, and traditional software engineering.
+
+Outside of class, I enjoy running — I recently completed the San Francisco Half Marathon. I also love playing soccer and guitar.
 
 
-My interest in Computer Science emminates from the immense promise and impact of well written code - aside from the fact that making things is extremley fun. 
-
-For the past two summers, I have had the privledge to work in [The Butte Lab](https://buttelab.ucsf.edu/) working on an LLM-powered clinical matching pipeline. 
-
-My current course work, academic, and professional interest lie within applications of AI, ML, as well as more traditional software engineering.
-
-Outside of class, I enjoy running - most recently completed the San Francisco Half Marathon. I also enjoy playing soccer and playing guitar.
 
