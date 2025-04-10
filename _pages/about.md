@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Scientist at The University of Virginia #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 
-My name is Rajiv Koliwad, and I’m a rising 4th-year student at the University of Virginia studying Computer Science. This summer, I’ll be working at [NASAs Jet Propulsion Lab](https://www.jpl.nasa.gov/) 🚀.
+My name is Rajiv Koliwad, and I’m a rising 4th-year student at the University of Virginia studying Computer Science. This summer, I’ll be working at [NASA's Jet Propulsion Lab](https://www.jpl.nasa.gov/).
 
 My passion for Computer Science comes from the immense promise and impact that well-written code can have — plus, it’s incredibly fun to create things!
 

@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website, Rajiv Koliwad # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: Logo.jpg # 🚀 the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: Logo.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://RajivKoliwad.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -192,6 +192,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/blog.md
+  - _pages/publications.md
+  - _pages/teaching.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
+  - _pages/Repositories.md
+  - _projects
 keep_files:
   - CNAME
   - .nojekyll
