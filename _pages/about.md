@@ -7,7 +7,7 @@ subtitle: Computer Scientist at The University of Virginia #<a href='#'>Affiliat
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
    
 
